@@ -1,0 +1,22 @@
+{
+  "name": "practera_evelina_gotlib_proj",
+  "version": "1.0.0",
+  "description": "practera proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliAbebe/draftPage.git"
+  },
+  "keywords": [
+    "Engagement"
+  ],
+  "author": "\"Kalkidan Abebe, Nazrawit Mekonnen,Woldie Tsega\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaliAbebe/draftPage/issues"
+  },
+  "homepage": "https://github.com/KaliAbebe/drafPage#readme"
+}
